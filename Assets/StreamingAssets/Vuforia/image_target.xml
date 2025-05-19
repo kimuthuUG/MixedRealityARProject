@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="flower" size="1.000000 0.750000" />
+    <ImageTarget name="img4" size="1.000000 0.700000" />
+    <ImageTarget name="img3" size="1.000000 1.000000" />
+    <ImageTarget name="img2" size="1.000000 0.750000" />
+  </Tracking>
+</QCARConfig>
